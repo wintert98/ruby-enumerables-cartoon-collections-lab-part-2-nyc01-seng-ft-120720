@@ -30,10 +30,5 @@ def find_valid_calls(planeteer_calls)
    if valid_calls.any?(word)
      word
    end
-    
   end
-    # "Earth!" || "Wind!" || "Fire!" || "Water!" || "Heart!"
-    
-    
-  
 end
